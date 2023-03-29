@@ -19,6 +19,7 @@ nav {
   font-weight: 500;
   position: fixed;
   top: 0;
+  z-index: 1;
 }
 
 .container {
