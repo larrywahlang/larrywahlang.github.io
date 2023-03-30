@@ -374,8 +374,9 @@ footer p {
   }
 
   .projects h3 {
-    font-size: 2em;
-    text-align: center;
+    font-size: 1.4em;
+    /* text-align: center; */
+    margin-left: 10vw;
     margin-bottom: 1em;
   }
   .mobile-projects {
@@ -387,7 +388,7 @@ footer p {
     position: relative;
     height: 420px;
     width: 60%;
-    margin: 0 auto;
+    margin: 0 0 0 10vw;
   }
 
   .carousel-images {
@@ -504,7 +505,7 @@ footer p {
 
   .what_i_do {
     /* opacity: 0; */
-    margin-left: 8em;
+    margin-left: 10vw;
     width: 600px;
   }
   .skill {
@@ -528,7 +529,7 @@ footer p {
   } */
   .contact_me {
     margin-top: 6em;
-    margin-left: 8em;
+    margin-left: 10vw;
     width: 600px;
   }
   .form {
