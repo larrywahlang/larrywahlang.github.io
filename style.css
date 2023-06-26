@@ -96,6 +96,7 @@ a {
   list-style: none;
   padding-inline-start: 0;
   justify-content: center;
+  gap: 40px;
 }
 /*
 .carousel-button {
