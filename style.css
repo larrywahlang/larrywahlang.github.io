@@ -158,6 +158,9 @@ li h4 {
   margin-left: 3em;
 }
 
+.bullet li p {
+  margin: 0 0 0 1em;
+}
 .contact_me p {
   font-size: 1.2em;
   margin-top: 4em;
